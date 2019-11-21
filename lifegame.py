@@ -1,22 +1,3 @@
-# Created by Igor Busquets
-
-
-
-#       LifeGame by I.B.
-
-
-
-#things to do:
-
-#TURN THE WET INTO DRY
-
-#branching for choices
-
-#add user choices/input
-
-#add surnames  
-
-
 
 import random
 
@@ -448,4 +429,3 @@ while game_status == "alive":
 
 #end of age loop   
 
-#       LifeGame by I.B.
